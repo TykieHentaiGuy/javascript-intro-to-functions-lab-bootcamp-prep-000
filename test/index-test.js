@@ -61,19 +61,13 @@ whisper(string) {
   
 }
 
-function 
-logWhisper(hello){
+
 console.log('hello')
-'hello'.toUppercase()//'HELLO!'
-}
+
 
 function
-logshout(string){
-return string("YES INDEED!")
-  
+shout(string){
+  return string
+  'HELLO'.toUpperCase
 }
 
-function
-logwhisper(hello){
-  return string("I can't hear you!")
-}
